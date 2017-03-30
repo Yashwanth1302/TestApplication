@@ -4,10 +4,10 @@
              x:Class="App5.BarCode">
   <Label Text="{Binding MainText}" VerticalOptions="Center" HorizontalOptions="Center" />
   <StackLayout VerticalOptions="Center" HorizontalOptions="Center" Spacing="20">
-    <!--<Button
+    <Button
     Text="SCAN" 
     BorderRadius="30" HeightRequest="60" WidthRequest="160"
     Clicked="import"
-     ></Button>-->
+     ></Button>
   </StackLayout>
 </ContentPage>
